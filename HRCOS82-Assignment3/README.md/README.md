@@ -89,9 +89,7 @@ If you use this pipeline or the findings in a dissertation or a paper, cite the 
     student’s academic performance using ensemble methods. International Journal of 
     Database Theory and Application, 9(8), 119–136.
 
-    Mathosi, M. B. (2026). Bridging the Domain Knowledge Gap in E-Learning: An Interpretable 
-    Machine Learning Approach (Version 1.0) [Computer software]. 
-    https://github.com/YOUR-USERNAME/HRCOS82-Assignment3
+
 
 ## Licence
 
