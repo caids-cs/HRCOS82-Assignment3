@@ -90,7 +90,7 @@ If you use this pipeline or the findings in a dissertation or a paper, cite the 
     Amrieh, E. A., Hamtini, T., & Aljarah, I. (2016). Mining educational data to predict 
     student’s academic performance using ensemble methods. International Journal of 
     Database Theory and Application, 9(8), 119–136.
-
+https://github.com/basilatawneh/Students-Academic-Performance-Dataset-xAPI-Edu-Data-
 
 
 ## Licence
